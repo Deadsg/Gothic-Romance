@@ -485,4 +485,4 @@ async def leave_guild(ctx, name):
     else:
         await ctx.send("Player not found.")
 
-bot.run('MTE2OTc1MDE4MjgwNDU5ODgyNA.GCzoPf.0jH4Ed7JtEbgqweJ-UhngaA_ELIO2Tk3Zt-qYo')
+bot.run('')
